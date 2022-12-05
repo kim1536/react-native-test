@@ -6,13 +6,16 @@
 Step 1: git clone
 $ git clone https://gitlab.com/gcnyy/test/react-native-test.git
 
-Step 2: npm  install
+Step 2: npm install
 $ npm i 
 
-Step 2: Start Metro
+Step 3: pod install
+$ pod install
+
+Step 4: Start Metro
  $ npm run start
 
-Step 3: Start your application
+Step 5: Start your application
  $ npm run android
 
  or
