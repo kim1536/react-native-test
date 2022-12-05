@@ -1,5 +1,5 @@
 ## React-Native 환경설정
- [Notion React-Native 환경설정 참조] (https://www.notion.so/React-Native-d84a86b464eb4eca9c0bd4f6e53d9841)
+ [Notion React-Native 환경설정 참조](https://www.notion.so/React-Native-d84a86b464eb4eca9c0bd4f6e53d9841)
 
  ## 실행 순서
 ```
